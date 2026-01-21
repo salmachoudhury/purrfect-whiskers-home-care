@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Purrfect Whiskers Cat Care | West Haven, CT</title>
+  <meta name="description" content="Purrfect Whiskers Cat Care offers loving in-home cat sitting in West Haven, CT. Loving care while you’re away." />
+
+  <!-- SEO -->
+  <meta name="keywords" content="Cat Sitter West Haven CT, In-Home Cat Sitting, Cat Care" />
+
+  <!-- Tailwind CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <!-- Smooth Scroll -->
+  <style>
+    html { scroll-behavior: smooth; }
+  </style>
+</head>
+<body id="top" class="bg-amber-50 text-gray-800">
+
+<!-- SPECIAL OFFER -->
+<div class="bg-emerald-600 text-white text-center py-2 font-semibold animate-pulse">
+  🐾 Special Offer: 10% Off for New Clients 🐾
+</div>
+
+<!-- HEADER -->
+<header class="bg-white shadow sticky top-0 z-50">
+  <div class="max-w-6xl mx-auto flex justify-between items-center p-4">
+    <h1 class="text-2xl font-bold text-emerald-600">Purrfect Whiskers Cat Care</h1>
+    <nav class="space-x-4">
+      <a href="#services" class="hover:text-emerald-600">Services</a>
+      <a href="#contact" class="hover:text-emerald-600">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<!-- HERO -->
+<section class="bg-gradient-to-r from-emerald-100 to-amber-100 py-20">
+  <div class="max-w-6xl mx-auto grid md:grid-cols-2 gap-10 items-center px-6">
+    <div>
+      <h2 class="text-4xl font-bold mb-4">In‑Home Cat Care You Can Trust 🐱</h2>
+      <p class="text-lg mb-6">Serving West Haven, CT<br><strong>Loving care while you’re away.</strong></p>
+      <a href="tel:+12034503965" class="bg-emerald-600 text-white px-6 py-3 rounded-xl hover:bg-emerald-700 transition">Text or Call to Book</a>
+    </div>
+    
+  </div>
+</section>
+
+<!-- ABOUT MY CATS -->
+<section class="py-16 bg-white">
+  <div class="max-w-4xl mx-auto px-6 text-center">
+    <h3 class="text-3xl font-bold mb-6">Experience Caring for Three Lovely Cats</h3>
+    
+    <p class="text-lg text-gray-700">I personally care for three wonderful cats, each with their own unique personality. From playful cuddle-lovers to calm, gentle companions, caring for them every day has taught me patience, attentiveness, and how to understand each cat’s individual needs. Their happiness and well‑being inspire the loving, reliable care I provide to every cat I sit for.</p>
+  </div>
+</section>
+
+<!-- SERVICES -->
+<section id="services" class="py-16">
+  <h3 class="text-3xl font-bold text-center mb-10">Our Services</h3>
+  <div class="max-w-6xl mx-auto grid md:grid-cols-3 gap-8 px-6">
+    <div class="bg-white p-6 rounded-2xl shadow hover:scale-105 transition">
+      <h4 class="font-bold text-xl mb-2">Feeding & Water</h4>
+      <p>Fresh food and clean water every visit.</p>
+    </div>
+    <div class="bg-white p-6 rounded-2xl shadow hover:scale-105 transition">
+      <h4 class="font-bold text-xl mb-2">Litter Box Cleaning</h4>
+      <p>Scooped and tidy litter boxes.</p>
+    </div>
+    <div class="bg-white p-6 rounded-2xl shadow hover:scale-105 transition">
+      <h4 class="font-bold text-xl mb-2">Playtime & Updates</h4>
+      <p>Love, play, and photo updates.</p>
+    </div>
+  </div>
+</section>
+
+<!-- CONTACT -->
+<section id="contact" class="bg-emerald-600 text-white py-16">
+  <h3 class="text-3xl font-bold text-center mb-6">Book Your Cat Sitting Today</h3>
+  <div class="text-center">
+    <p>📍 West Haven, CT</p>
+    <p>📧 Salmachoudhury399@gmail.com</p>
+    <p>📞 Contact Number: <a href="tel:+12034503965" class="underline">203‑450‑3965</a></p>
+  </div>
+</section>
+
+<!-- STICKY BUTTON -->
+<a href="tel:+12034503965" class="fixed bottom-6 right-6 bg-emerald-600 text-white px-6 py-3 rounded-full shadow-lg hover:bg-emerald-700 transition">Text or Call to Book</a>
+
+<!-- BACK TO TOP BUTTON -->
+<a href="#top" class="fixed bottom-6 left-6 bg-white text-emerald-600 border border-emerald-600 px-4 py-3 rounded-full shadow-lg hover:bg-emerald-50 transition" aria-label="Back to top">🐾 Top</a>
+
+<!-- FOOTER -->
+<footer class="bg-white text-center py-4">
+  © 2026 Purrfect Whiskers Cat Care
+</footer>
+
+</body>
+</html>
